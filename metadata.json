@@ -1,0 +1,6 @@
+{
+  "name": "Tapadia City Centre Rewards",
+  "description": "Official Gifts, Contests & Cinema Rewards app for Tapadia City Centre, Badnera Road, Amravati.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
